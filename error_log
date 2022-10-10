@@ -1,0 +1,23 @@
+[19-Dec-2021 16:45:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'ozh'@'localhost' (using password: YES) in /home/ozhsocsm/public_html/istakip/index.php on line 47
+[19-Dec-2021 16:45:43 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'ozh'@'localhost' (using password: YES) in /home/ozhsocsm/public_html/istakip/index.php on line 47
+[19-Dec-2021 16:46:17 UTC] PHP Notice:  Undefined variable: localhost1 in /home/ozhsocsm/public_html/istakip/index.php on line 43
+[19-Dec-2021 16:46:17 UTC] PHP Notice:  Undefined variable: kullanici221 in /home/ozhsocsm/public_html/istakip/index.php on line 44
+[19-Dec-2021 16:46:17 UTC] PHP Notice:  Undefined variable: sifredata in /home/ozhsocsm/public_html/istakip/index.php on line 45
+[19-Dec-2021 16:46:17 UTC] PHP Notice:  Undefined variable: veritabani in /home/ozhsocsm/public_html/istakip/index.php on line 46
+[19-Dec-2021 16:46:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'ozhsocsm'@'localhost' (using password: NO) in /home/ozhsocsm/public_html/istakip/index.php on line 50
+[19-Dec-2021 16:46:19 UTC] PHP Notice:  Undefined variable: localhost1 in /home/ozhsocsm/public_html/istakip/index.php on line 43
+[19-Dec-2021 16:46:19 UTC] PHP Notice:  Undefined variable: kullanici221 in /home/ozhsocsm/public_html/istakip/index.php on line 44
+[19-Dec-2021 16:46:19 UTC] PHP Notice:  Undefined variable: sifredata in /home/ozhsocsm/public_html/istakip/index.php on line 45
+[19-Dec-2021 16:46:19 UTC] PHP Notice:  Undefined variable: veritabani in /home/ozhsocsm/public_html/istakip/index.php on line 46
+[19-Dec-2021 16:46:19 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'ozhsocsm'@'localhost' (using password: NO) in /home/ozhsocsm/public_html/istakip/index.php on line 50
+[19-Dec-2021 16:46:44 UTC] PHP Notice:  Undefined variable: localhost1 in /home/ozhsocsm/public_html/istakip/index.php on line 43
+[19-Dec-2021 16:46:44 UTC] PHP Notice:  Undefined variable: kullanici221 in /home/ozhsocsm/public_html/istakip/index.php on line 44
+[19-Dec-2021 16:46:44 UTC] PHP Notice:  Undefined variable: sifredata in /home/ozhsocsm/public_html/istakip/index.php on line 45
+[19-Dec-2021 16:46:44 UTC] PHP Notice:  Undefined variable: veritabani in /home/ozhsocsm/public_html/istakip/index.php on line 46
+[19-Dec-2021 16:46:44 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'ozhsocsm'@'localhost' (using password: NO) in /home/ozhsocsm/public_html/istakip/index.php on line 50
+[19-Dec-2021 16:46:52 UTC] PHP Notice:  Undefined variable: localhost1 in /home/ozhsocsm/public_html/istakip/index.php on line 43
+[19-Dec-2021 16:46:52 UTC] PHP Notice:  Undefined variable: kullanici221 in /home/ozhsocsm/public_html/istakip/index.php on line 44
+[19-Dec-2021 16:46:52 UTC] PHP Notice:  Undefined variable: sifredata in /home/ozhsocsm/public_html/istakip/index.php on line 45
+[19-Dec-2021 16:46:52 UTC] PHP Notice:  Undefined variable: veritabani in /home/ozhsocsm/public_html/istakip/index.php on line 46
+[19-Dec-2021 16:46:52 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'ozhsocsm'@'localhost' (using password: NO) in /home/ozhsocsm/public_html/istakip/index.php on line 50
+[19-Dec-2021 16:47:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'ozh'@'localhost' (using password: YES) in /home/ozhsocsm/public_html/istakip/mailayarsil.php on line 13
